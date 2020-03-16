@@ -5,4 +5,4 @@ function writeSecretSentence( string $secret1, string $secret2): string
 }
 echo writeSecretSentence("le soleil","la mer");
 
-Affiche : le soleil s'incline face à la mer
+// Affiche : le soleil s'incline face à la mer
